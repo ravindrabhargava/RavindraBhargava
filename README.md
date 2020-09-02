@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ravindra, I am cloud and DevOps enthusiast, love and automation in IT Infrastructure, Golang and python is my favorate programming language. 
+I am Ravindra, I am cloud and DevOps enthusiast, love automation in IT Infrastructure, passionate about Golang and python programming. 
 
 I mostly work with Golang and Cloud-Native technologies.
 
