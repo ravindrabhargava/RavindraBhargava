@@ -4,7 +4,7 @@ I am Ravindra, I am cloud and DevOps enthusiast, love and automation in IT Infra
 
 I mostly work with Golang and Cloud-Native technologies.
 
-- ![alt text](https://github.com/ravindrabhargava/profile/blob/master/ravi.PNG)
+
 <!--
 **ravindrabhargava/RavindraBhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
